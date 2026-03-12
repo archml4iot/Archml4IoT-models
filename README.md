@@ -1,4 +1,5 @@
 # Archml4IoT-models
 
 Garage Door:
-![Architecture Diagram](ArchML4IoT Model/Garage Door.PNG)
+
+![Garage Door](ArchML4IoT%20Model/Garage%20Door.PNG)
