@@ -47,7 +47,7 @@ This repository is intended to:
 - The generated models are organized together with manually created baseline models for evaluation purposes.
 - The ArchML4IoT modelling editor and transformation scripts are maintained separately.
 
-## Require Tools
+## Required Tools
 
 - Eclipse Modeling Tools - 2023-06
 - Eclipse Sirius - releases/7.4.11/2023-03
