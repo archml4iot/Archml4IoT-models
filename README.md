@@ -52,3 +52,4 @@ This repository is intended to:
 - Eclipse Modeling Tools - 2023-06
 - Eclipse Sirius - releases/7.4.11/2023-03
 - itemis CREATE - version 5.2.2
+- Python 3.12.6
