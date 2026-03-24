@@ -16,6 +16,7 @@ This folder contains the manually created statechart models used as reference mo
 
 ---
 This model (subset) shows the **inline definition** section of the **Garage Door System** statechart model. 
+
 It defines the internal elements required by the system, such as interfaces, events, variables, and component instances, which support communication and coordination among the statecharts in the model.
 
 ---
@@ -24,6 +25,7 @@ It defines the internal elements required by the system, such as interfaces, eve
 
 ---
 This model presents the main system-level statechart of the **Garage Door System** model. 
+
 It captures the overall system behavior and coordinates the interaction among the internal components that realize the garage door logic.
 
 ---
@@ -31,4 +33,5 @@ It captures the overall system behavior and coordinates the interaction among th
 
 ---
 This model shows the **Garage Door Logic Unit** statechart. It represents the behavior of the garage door core logic.
+
 Combined with the system-level statecharts, it contributes to the complete multi-state machine model of the Garage Door system.
