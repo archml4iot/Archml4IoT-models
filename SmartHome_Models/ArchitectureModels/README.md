@@ -13,7 +13,7 @@ Each model captures the main structural elements of the system, such as subsyste
 
 ## ArchML4IoT modelling environment featuring a sample model of a smart farm system.
 
-![Smart Home Hub](./Smart%20Home%20Hub.PNG)
+![Smart Home Hub](./Smart%20Farm%20System.PNG)
 
 ## Example: Smart Home Hub
 
